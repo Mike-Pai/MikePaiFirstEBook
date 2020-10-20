@@ -7,19 +7,37 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		994869BE253B198000E46D1F /* AppView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 994869BD253B198000E46D1F /* AppView.swift */; };
+		994869C1253B1AF900E46D1F /* ConanData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 994869C0253B1AF900E46D1F /* ConanData.swift */; };
+		994869C5253B1CBA00E46D1F /* ConanRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 994869C4253B1CBA00E46D1F /* ConanRow.swift */; };
+		994869C9253B298700E46D1F /* ConanDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 994869C8253B298700E46D1F /* ConanDetail.swift */; };
+		994869CD253BFDAC00E46D1F /* ConanList2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 994869CC253BFDAC00E46D1F /* ConanList2.swift */; };
+		994869D1253C1E1300E46D1F /* About.swift in Sources */ = {isa = PBXBuildFile; fileRef = 994869D0253C1E1300E46D1F /* About.swift */; };
 		996B6F002539C5C5007FE7A8 /* MikePaiFirstEBookApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 996B6EFF2539C5C5007FE7A8 /* MikePaiFirstEBookApp.swift */; };
-		996B6F022539C5C5007FE7A8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 996B6F012539C5C5007FE7A8 /* ContentView.swift */; };
+		996B6F022539C5C5007FE7A8 /* ConanList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 996B6F012539C5C5007FE7A8 /* ConanList.swift */; };
 		996B6F042539C5C6007FE7A8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 996B6F032539C5C6007FE7A8 /* Assets.xcassets */; };
 		996B6F072539C5C6007FE7A8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 996B6F062539C5C6007FE7A8 /* Preview Assets.xcassets */; };
+		9975183E253C3FC20057DCF2 /* ConanTheaterVersion.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9975183D253C3FC20057DCF2 /* ConanTheaterVersion.swift */; };
+		99BAF7EF253C740F007B8A03 /* ConanMovieVersionDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99BAF7EE253C740F007B8A03 /* ConanMovieVersionDetail.swift */; };
+		99DC2AFE253E074C00D5CC90 /* ConanMusic.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 99DC2AFD253E074B00D5CC90 /* ConanMusic.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		994869BD253B198000E46D1F /* AppView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppView.swift; sourceTree = "<group>"; };
+		994869C0253B1AF900E46D1F /* ConanData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConanData.swift; sourceTree = "<group>"; };
+		994869C4253B1CBA00E46D1F /* ConanRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConanRow.swift; sourceTree = "<group>"; };
+		994869C8253B298700E46D1F /* ConanDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConanDetail.swift; sourceTree = "<group>"; };
+		994869CC253BFDAC00E46D1F /* ConanList2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConanList2.swift; sourceTree = "<group>"; };
+		994869D0253C1E1300E46D1F /* About.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = About.swift; sourceTree = "<group>"; };
 		996B6EFC2539C5C5007FE7A8 /* MikePaiFirstEBook.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MikePaiFirstEBook.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		996B6EFF2539C5C5007FE7A8 /* MikePaiFirstEBookApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MikePaiFirstEBookApp.swift; sourceTree = "<group>"; };
-		996B6F012539C5C5007FE7A8 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		996B6F012539C5C5007FE7A8 /* ConanList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConanList.swift; sourceTree = "<group>"; };
 		996B6F032539C5C6007FE7A8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		996B6F062539C5C6007FE7A8 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		996B6F082539C5C6007FE7A8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9975183D253C3FC20057DCF2 /* ConanTheaterVersion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConanTheaterVersion.swift; sourceTree = "<group>"; };
+		99BAF7EE253C740F007B8A03 /* ConanMovieVersionDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConanMovieVersionDetail.swift; sourceTree = "<group>"; };
+		99DC2AFD253E074B00D5CC90 /* ConanMusic.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = ConanMusic.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,8 +70,17 @@
 		996B6EFE2539C5C5007FE7A8 /* MikePaiFirstEBook */ = {
 			isa = PBXGroup;
 			children = (
+				99DC2AFD253E074B00D5CC90 /* ConanMusic.mp3 */,
 				996B6EFF2539C5C5007FE7A8 /* MikePaiFirstEBookApp.swift */,
-				996B6F012539C5C5007FE7A8 /* ContentView.swift */,
+				994869BD253B198000E46D1F /* AppView.swift */,
+				9975183D253C3FC20057DCF2 /* ConanTheaterVersion.swift */,
+				99BAF7EE253C740F007B8A03 /* ConanMovieVersionDetail.swift */,
+				994869D0253C1E1300E46D1F /* About.swift */,
+				994869C0253B1AF900E46D1F /* ConanData.swift */,
+				994869C4253B1CBA00E46D1F /* ConanRow.swift */,
+				996B6F012539C5C5007FE7A8 /* ConanList.swift */,
+				994869CC253BFDAC00E46D1F /* ConanList2.swift */,
+				994869C8253B298700E46D1F /* ConanDetail.swift */,
 				996B6F032539C5C6007FE7A8 /* Assets.xcassets */,
 				996B6F082539C5C6007FE7A8 /* Info.plist */,
 				996B6F052539C5C6007FE7A8 /* Preview Content */,
@@ -127,6 +154,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				996B6F072539C5C6007FE7A8 /* Preview Assets.xcassets in Resources */,
+				99DC2AFE253E074C00D5CC90 /* ConanMusic.mp3 in Resources */,
 				996B6F042539C5C6007FE7A8 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -138,8 +166,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				996B6F022539C5C5007FE7A8 /* ContentView.swift in Sources */,
+				99BAF7EF253C740F007B8A03 /* ConanMovieVersionDetail.swift in Sources */,
+				994869C9253B298700E46D1F /* ConanDetail.swift in Sources */,
+				994869D1253C1E1300E46D1F /* About.swift in Sources */,
+				9975183E253C3FC20057DCF2 /* ConanTheaterVersion.swift in Sources */,
+				996B6F022539C5C5007FE7A8 /* ConanList.swift in Sources */,
+				994869C5253B1CBA00E46D1F /* ConanRow.swift in Sources */,
 				996B6F002539C5C5007FE7A8 /* MikePaiFirstEBookApp.swift in Sources */,
+				994869BE253B198000E46D1F /* AppView.swift in Sources */,
+				994869CD253BFDAC00E46D1F /* ConanList2.swift in Sources */,
+				994869C1253B1AF900E46D1F /* ConanData.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
